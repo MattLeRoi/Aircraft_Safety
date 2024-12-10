@@ -1,6 +1,10 @@
 # Data
-/data
+
 
 #Junk Files
 .DS_Store
 .ipynb_checkpoints
+single.csv
+dual.csv
+merged.csv
+top_tens.csv
