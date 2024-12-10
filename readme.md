@@ -1,3 +1,4 @@
+![BD-100-1A10.jpg](./Images/BD-100-1A10.jpg)
 
 # Aircraft Safety Analysis
 
@@ -23,13 +24,13 @@ The accident and registration data are merged, and rates of fatalities, injuries
 
 The rates of aircraft issues varied greatly from aircraft to aircraft. Within the top 10 most common single and dual engine aircraft, the rates varied from 5 occurrances per 1000 registered aircraft to 25.  
 
-![Tables.png](./images/Tables.png)
+![Tables.png](./Images/Tables.png)
 
 There were no significantly noted differences in accident rates between single and dual engine aircraft. The number of people affected was different, however, due to the generally larger seating capacity of dual engine planes. 
 
-![Stacked.png](./images/Stacked.png)
+![Stacked.png](./Images/Stacked.png)
 
-![Bar_chart.png](./images/Bar_chart.png)
+![Bar_chart.png](./Images/Bar_chart.png)
 
 ## Limitations
 
