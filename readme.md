@@ -22,7 +22,14 @@ The accident and registration data are merged, and rates of fatalities, injuries
 # Conclusion
 
 The rates of aircraft issues varied greatly from aircraft to aircraft. Within the top 10 most common single and dual engine aircraft, the rates varied from 5 occurrances per 1000 registered aircraft to 25.  
+
+![Tables.png](./images/Tables.png)
+
 There were no significantly noted differences in accident rates between single and dual engine aircraft. The number of people affected was different, however, due to the generally larger seating capacity of dual engine planes. 
+
+![Stacked.png](./images/Stacked.png)
+
+![Bar_chart.png](./images/Bar_chart.png)
 
 ## Limitations
 
@@ -56,14 +63,14 @@ The recommended aircraft should be further analyzed for other factors, including
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Aircraft_Safety.ipynb) or review this [presentation](./Slides.pdf).
+See the full analysis in the [Jupyter Notebook](./Aircraft_safety.ipynb), review this [presentation](./Slides.pdf), or peruse this [dashboard]().
 
-For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@flatironschool.com](mailto:alison.peeblesmadigan@flatironschool.com)
+For additional info, contact Matt LeRoi at [mcleroi@gmail.com](mailto:mcleroi@gmail.com)
 
 ```
 ├── data
 ├── images
 ├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── Slides.pdf
+└── Aircraft_safety.ipynb
 ```
