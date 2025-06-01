@@ -2,7 +2,7 @@
 
 # Aircraft Safety Analysis
 
-**Author**: [Matt LeRoi](mailto:mcleroi@gmail.com) 
+**Author**: [Matt LeRoi](mailto:mcleroi@gmail.com)  
 
 # Business Understanding
 
